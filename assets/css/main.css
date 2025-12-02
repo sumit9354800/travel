@@ -7733,13 +7733,13 @@ input:focus-visible {
 }
 
 .about-title {
-    font-size: 75px;
+    font-size: 50px;
     line-height: 93%;
 }
 
 @media screen and (max-width: 1399px) {
     .about-title {
-        font-size: 72px;
+         font-size: 50px;
     }
 }
 
@@ -8485,8 +8485,6 @@ input:focus-visible {
     height: 78px;
     bottom: -14px;
     left: -3px;
-    mask-image: url(../images/icon/testimonial-box-shape.svg);
-    background: var(--neutral-50);
     mask-repeat: no-repeat;
     mask-position: center;
     mask-size: contain;
@@ -9078,7 +9076,7 @@ input:focus-visible {
 }
 
 .travelor-text {
-    font-size: 70px;
+    font-size: 58px;
     line-height: 96%;
     letter-spacing: 0.02em;
     text-transform: capitalize;
